@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hey there, I'm Osas!
 
-<!--
-**fun-mi1/fun-mi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Innovating at the crossroads of robotics, automation, and embedded systems
 
-Here are some ideas to get you started:
+I’m on a journey to master mobile robotics, with a passion for the intersection of hardware, software, and real-time systems. I dive into everything from microcontrollers to machine learning, building as I learn and always pushing the boundaries of what’s possible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm Working On  
+🔹 Learning ROS2 and setting up my Linux environment for robotics development.  
+🔹 Exploring embedded systems and automation solutions with Ardunio and ESP32.
+
+🛠 Tech Stack  
+🔹 Languages: Python, C++ 
+🔹 Hardware: Ardunio, ESP32, Sensors  
+🔹 Tools: Arduino IDE, VS Code, Ubuntu Linux
+🔹 Interests: Mobile Robotics, Embedded Systems, Automation, AI/ML
+
+📬 Let’s Connect!  
+I believe in learning in public and love collaborating with others. If you're working on exciting projects, let's build and innovate together!
+www.linkedin.com/in/osasemwinhia-egharevba-b5b9a030b
