@@ -10,8 +10,11 @@ I’m on a journey to master mobile robotics, with a passion for the intersectio
 
 🛠 Tech Stack  
 🔹 Languages: Python, C++ 
+
 🔹 Hardware: Ardunio, ESP32, Sensors  
+
 🔹 Tools: Arduino IDE, VS Code, Ubuntu Linux
+
 🔹 Interests: Mobile Robotics, Embedded Systems, Automation, AI/ML
 
 📬 Let’s Connect!  
