@@ -1,6 +1,6 @@
 # Hey, I'm Osas 👋
 
-Robotics Engineer | Learning in Public | Building Intelligent Systems
+Robotics Engineer | Building Intelligent Systems
 
 I'm figuring out how to make robots think and move autonomously. Right now, that means ROS2, control systems, and a lot of debugging at 2am.
 
