@@ -1,22 +1,25 @@
-# 👋 Hey there, I'm Osas!
+# Hey, I'm Osas 👋
 
-💡 Innovating at the crossroads of robotics, automation, and embedded systems
+Robotics Engineer | Learning in Public | Building Intelligent Systems
 
-I’m on a journey to master mobile robotics, with a passion for the intersection of hardware, software, and real-time systems. I dive into everything from microcontrollers to machine learning, building as I learn and always pushing the boundaries of what’s possible.
+I'm figuring out how to make robots think and move autonomously. Right now, that means ROS2, control systems, and a lot of debugging at 2am.
 
-🚀 What I'm Working On  
-🔹 Learning ROS2 and setting up my Linux environment for robotics development.  
-🔹 Exploring embedded systems and automation solutions with Ardunio and ESP32.
+## What I'm building
+- Autonomous navigation systems 
+- Educational content (breaking down robotics concepts for students like me)
 
-🛠 Tech Stack  
-🔹 Languages: Python, C++ 
+## What I work with
+**Languages:** Python, C++  
+**Robotics:** ROS2, control theory, embedded systems  
+**Hardware:** Arduino, ESP32  
+**Current focus:** Behavior trees, autonomous navigation, sensor fusion
 
-🔹 Hardware: Ardunio, ESP32, Sensors  
+## Where I'm learning
+- Co-Head of Embedded Systems @ Your Favourite Engineer
+- Building projects, breaking things, documenting the process
+- Posting what I learn on https://www.linkedin.com/in/osasinrobotics/
 
-🔹 Tools: Arduino IDE, VS Code, Ubuntu Linux
+## Let's connect
+I believe in building in public. If you're building cool robots or just figuring this out like me, let's talk.
 
-🔹 Interests: Mobile Robotics, Embedded Systems, Automation, AI/ML
-
-📬 Let’s Connect!  
-I believe in learning in public and love collaborating with others. If you're working on exciting projects, let's build and innovate together!
-www.linkedin.com/in/osasemwinhia-egharevba-b5b9a030b
+📧 https://linktr.ee/Osasemwinhia
